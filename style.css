@@ -1,0 +1,49 @@
+body{
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+input[type='text']{
+    height: 40px;
+    font-size: 20px;
+}
+
+table{
+    color: #286090;
+    font-family: Helvetical, Arial, sans-serif;
+    width: 90%;
+}
+
+th{
+    background: #286090;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+td{
+    background: #FAFAFA;
+    text-align: center;
+    font-size: 18px;
+}
+
+#cityDiv{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#averagePressure{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#chart_div{
+	margin: auto;
+	text-align: center;
+	width: 900px;
+	height: 500px;
+}
